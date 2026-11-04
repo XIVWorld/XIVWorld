@@ -26,6 +26,12 @@ Music reviews, live reactions, studio experiences and tools that help creative i
 
 ## 🧪 On the workbench
 
+**NextTrack** 🎧 · I’m building tools for music-review creators to collect tracks, manage live queues and bring their audience into the session.
+
+[Visit my NextTrack creator page →](https://nexttrack.live/creator/stxv)
+
+**XIV Command** 🛰️ · My workspace for exploring creative operations, findings and content workflows. Its operational code stays private; a separate public demo would need its own isolation review.
+
 **XIV Studio** · Creative sessions meet interactive tools. I’m building studio experiences and exploring how booking flows can feel clear, useful and fun.
 
 [Explore the public repository →](https://github.com/XIVWorld/xiv-studio)
